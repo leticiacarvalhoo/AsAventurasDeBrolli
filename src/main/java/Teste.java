@@ -31,7 +31,7 @@ public class Teste extends javax.swing.JFrame {
     }
     
     /**
-     * Creates new form Teste
+     * Creates new form Teste oi
      */
     public Teste() throws UnsupportedAudioFileException, IOException{
         initComponents();
